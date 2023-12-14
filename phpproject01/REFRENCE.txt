@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=gCo6JqGMi30&t=2497s
+
+We followed the above tutorial to set up our signup & login system, that includes the following files:
+We made changes to it to make it fit our application
+
+login.php
+signup.php
+logout.php
+header.php
+footer.php
+script.js
+dbh.inc.php
+functions.inc.php
+login.inc.php
+signup.inc.php
+reset.css
+styles.css
