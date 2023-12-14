@@ -28,7 +28,7 @@ $apartments = mysqli_fetch_all($result, MYSQLI_ASSOC);
         }
 
         table {
-            width: 80%;
+            width: 100%;
             max-width: 1200px;
             margin: 20px auto;
             border-collapse: collapse;
